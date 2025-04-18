@@ -1,0 +1,17 @@
+.container {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+input {
+  padding: 5px;
+  width: 70%;
+}
+button {
+  margin-left: 5px;
+}
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
